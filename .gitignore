@@ -36,3 +36,5 @@ target/
 *.jar
 config.properties
 .env
+.gradle/
+build/
